@@ -1,2 +1,2 @@
 # ElasticSearch
-ElasticSearch 1.7.3
+ElasticSearch 1.7.3 
